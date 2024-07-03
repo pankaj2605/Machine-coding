@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: system-ui;
+}
+button {
+    margin: auto;
+    display: block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 700;
+    background: #147aab;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+  }
